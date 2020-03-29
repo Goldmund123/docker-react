@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Woo
+          How are you doing?
         </p>
         <a
           className="App-link"
