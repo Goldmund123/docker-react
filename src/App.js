@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          How are you doing?
+          I am learing how to deploy model on website!
         </p>
         <a
           className="App-link"
